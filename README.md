@@ -29,5 +29,6 @@ This is a full-stack e-commerce application built using **Angular** for the fron
 - Java (for Spring Boot)
 - A database (e.g., MySQL/PostgreSQL)
 
-##Usage
-Open your browser and navigate to http://localhost:4200 to use the application.
+### Usage
+ -Open your browser and navigate to http://localhost:4200 to use the application.
+
