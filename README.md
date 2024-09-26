@@ -29,7 +29,5 @@ This is a full-stack e-commerce application built using **Angular** for the fron
 - Java (for Spring Boot)
 - A database (e.g., MySQL/PostgreSQL)
 
-### Frontend Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ecommerce-app.git
+##Usage
+Open your browser and navigate to http://localhost:4200 to use the application.
