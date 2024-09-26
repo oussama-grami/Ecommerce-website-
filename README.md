@@ -1,5 +1,7 @@
-E-commerce Application
+#E-commerce Application
+
 Description
+
 This is a full-stack e-commerce application built using Angular for the frontend and Spring Boot for the backend. It allows users to browse products, add them to a shopping cart, and place orders. The application also includes features for user authentication, product management, and order tracking.
 
 Features
